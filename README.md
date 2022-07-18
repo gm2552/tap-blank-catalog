@@ -1,2 +1,1 @@
-# tap-blank-catalog
-Blank catalog for TAP GUI
+Sample org structure for application catalog
